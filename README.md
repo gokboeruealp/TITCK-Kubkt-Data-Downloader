@@ -12,6 +12,10 @@ For more information, you can visit the [TITCK Kubkt website](https://www.titck.
 3. Load the project and add the necessary dependencies to your project.
 4. Compile and run the project.
 
+## Data File Location
+
+Place the `kubkt.html` data file in the `kubkt\kubkt\kubkt\bin\Debug\net6.0` directory for the application to function properly.
+
 ## Code Functionality
 
 This code example reads and parses data from a local HTML file that contains the Kubkt dataset. It then downloads the entire dataset and stores it in a specific folder within the project directory.
