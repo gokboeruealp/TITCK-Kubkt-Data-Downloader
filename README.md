@@ -2,6 +2,9 @@
 
 This C# application is designed to download data from a local HTML file that contains the dataset from the Turkish Medicines and Medical Devices Agency's (TITCK) Kubkt.
 
+For more information, you can visit the [TITCK Kubkt website](https://www.titck.gov.tr/kubkt).
+
+
 ## How to Use
 
 1. Download this code to your computer.
