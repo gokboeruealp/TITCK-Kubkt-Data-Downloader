@@ -8,10 +8,10 @@ class Program
 {
     static void Main()
     {
-        string dosyaYolu = "kubkt.html";
+        string fileParh = "kubkt.html";
 
         HtmlDocument doc = new HtmlDocument();
-        doc.Load(dosyaYolu);
+        doc.Load(fileParh);
 
         HtmlNode table = doc.DocumentNode.SelectSingleNode("//table[@id='posts']");
 
