@@ -13,6 +13,16 @@ This C# application is designed to download data from a local HTML file that con
 
 This code example reads and parses data from a local HTML file that contains the Kubkt dataset. It then downloads the entire dataset and stores it in a specific folder within the project directory.
 
+## Project Dependencies
+
+This project relies on the following dependency:
+
+- [HtmlAgilityPack](https://github.com/zzzprojects/html-agility-pack): This library is used for parsing and processing HTML documents. It is essential for the proper functioning of the project.
+
+## Project Size
+
+Upon completion of the compilation process, this project is expected to generate and contain more than 14 GB of data. Please ensure that you have sufficient storage space to accommodate this large dataset.
+
 ## Contact
 
 Feel free to contact us with any questions or feedback.
