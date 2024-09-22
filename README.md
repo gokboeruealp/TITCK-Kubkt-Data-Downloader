@@ -35,4 +35,4 @@ Upon completion of the compilation process, this project is expected to generate
 Feel free to contact us with any questions or feedback.
 
 Berk Örenbaşı
-<a href="mailto:berkorenbasi@gmail.com">berkorenbasi@gmail.com</a>
+<a href="mailto:berkorenbasi@icloud.com">berkorenbasi@icloud.com</a>
